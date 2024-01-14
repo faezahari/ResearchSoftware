@@ -1,6 +1,0 @@
-color: yellow
-save_path: image.png
-
-variable_to_plot:
-- dollars
-- year 
